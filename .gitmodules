@@ -1,3 +1,6 @@
 [submodule "Drone_Controller"]
 	path = Drone_Controller
 	url = https://github.com/casimirn/Drone_Controller.git
+[submodule "Drone_Remote"]
+	path = Drone_Remote
+	url = https://github.com/casimirn/Drone_Remote.git
